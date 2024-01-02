@@ -17,5 +17,5 @@ func Reverse(s string) string {
 }
 
 func FuckNumberOne(num int64) {
-	fmt.Println("FuckNumberOne:", num)
+	fmt.Println("test-FuckNumberOne:", num)
 }
